@@ -1,23 +1,26 @@
-## Hi, I am S4Crying! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
-### Who Is S4Crying?
-#### My name is Samed. I live in Moon.
-
-### My Links
-[![discordBadge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/668660071554613267)
-[![instagramBadge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@s4_crying)
-[![youtubeBadge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@S4Crying)
+# 💫 About Me:
+🔭 I’m currently working  on : Movie Website<br>🤝 I’m looking for help with <br>🌱 I’m currently learning: Front end<br>💬 Ask me about: everything about frontend
 
 
-### I Use
- [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://discord.gg/cdb4uWW5kZ)
-[![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&&labelColor=black&logo=html5&logoColor=E34FX6)](https://discord.gg/cdb4uWW5kZ)
-[![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black)](https://discord.gg/cdb4uWW5kZ)
-[![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=43853D&labelColor=black)](https://discord.gg/cdb4uWW5kZ)
-[![Python Badge](https://img.shields.io/badge/Python-FDE672?style=for-the-badge&logo=python&logoColor=blue&labelColor=black)](https://discord.gg/cdb4uWW5kZ)    
+## 🌐 Socials:
+![Badge Name](https://img.shields.io/badge/Kick-%23green.svg?style=for-the-badge&logo=Kick&logoColor=white)
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/antidothen) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@antidothen) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://kick.com/s4crying) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/s4crying) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@S4Crying) 
 
-[![Node.js Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=S4Crying&theme=blue-green)](https://discord.gg/cdb4uWW5kZ)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sahra-Y&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sahra-Y&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahra-Y&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Github Stats
-[![S4Crying's GitHub stats](https://github-readme-stats.vercel.app/api?username=S4Crying)](https://github.com/S4Crying)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sahra-Y&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sahra-Y&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Sahra-Y&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
