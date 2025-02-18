@@ -3,7 +3,14 @@
 
 
 ## 🌐 Socials:
-![Kick](https://img.shields.io/badge/Kick-%23green.svg?style=for-the-badge&logo=Kick&logoColor=white)
+[![Kick](https://img.shields.io/badge/Kick-%2300e701.svg?style=for-the-badge&logo=Kick&logoColor=white)](https://kick.com/s4crying)
+
+![Kick](https://img.shields.io/badge/Kick-%2300e701.svg?style=for-the-badge&logo=kick&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23c13584.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![TikTok](https://img.shields.io/badge/tiktok-%23010101.svg?style=for-the-badge&logo=tiktok&logoColor=white)
+![X](https://img.shields.io/badge/x-%23010101.svg?style=for-the-badge&logo=x&logoColor=white)
+![YouTube](https://img.shields.io/badge/youtube-%23ff0000.svg?style=for-the-badge&logo=youtube&logoColor=white)
+![Discord](https://img.shields.io/badge/discord-%237289da.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/antidothen) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@antidothen) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://kick.com/s4crying) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/s4crying) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@S4Crying) 
 
