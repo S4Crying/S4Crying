@@ -9,7 +9,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23c13584.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/s4cryingresmi)
 [![TikTok](https://img.shields.io/badge/tiktok-%23010101.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@s4crying)
 [![X](https://img.shields.io/badge/x-%23010101.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/s4crying)
-[![X](https://icons.ly/kick?style=for-the-badge&logo=x&logoColor=white)](https://x.com/s4crying)
 
 # 💻 Tech Stack:
 
