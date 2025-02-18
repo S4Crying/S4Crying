@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-![Badge Name](https://img.shields.io/badge/Kick-%23green.svg?style=for-the-badge&logo=Kick&logoColor=white)
+![Kick](https://img.shields.io/badge/Kick-%23green.svg?style=for-the-badge&logo=Kick&logoColor=white)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/antidothen) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@antidothen) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://kick.com/s4crying) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/s4crying) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@S4Crying) 
 
