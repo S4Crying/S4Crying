@@ -3,17 +3,12 @@
 
 
 ## 🌐 Socials:
-[![Kick](https://img.shields.io/badge/Kick-%2300e701.svg?style=for-the-badge&logo=Kick&logoColor=white)](https://kick.com/s4crying)
-
-![Kick](https://img.shields.io/badge/Kick-%2300e701.svg?style=for-the-badge&logo=kick&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23c13584.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![TikTok](https://img.shields.io/badge/tiktok-%23010101.svg?style=for-the-badge&logo=tiktok&logoColor=white)
-![X](https://img.shields.io/badge/x-%23010101.svg?style=for-the-badge&logo=x&logoColor=white)
-![YouTube](https://img.shields.io/badge/youtube-%23ff0000.svg?style=for-the-badge&logo=youtube&logoColor=white)
-![Discord](https://img.shields.io/badge/discord-%237289da.svg?style=for-the-badge&logo=discord&logoColor=white)
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/antidothen) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@antidothen) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://kick.com/s4crying) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/s4crying) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@S4Crying) 
-
+[![Kick](https://img.shields.io/badge/Kick-%2300e701.svg?style=for-the-badge&logo=kick&logoColor=white)](https://kick.com/s4crying)
+[![Instagram](https://img.shields.io/badge/Instagram-%23c13584.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/s4cryingresmi)
+[![TikTok](https://img.shields.io/badge/tiktok-%23010101.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@s4crying)
+[![X](https://img.shields.io/badge/x-%23010101.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/s4crying)
+[![YouTube](https://img.shields.io/badge/youtube-%23ff0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@S4Crying)
+[![Discord](https://img.shields.io/badge/discord-%237289da.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/668660071554613267)
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 # 📊 GitHub Stats:
