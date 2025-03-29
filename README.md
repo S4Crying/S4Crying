@@ -1,28 +1,33 @@
-<h1 align="center">Hi 👋, I'm S4Crying</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 💫 About Me:
+🔭 I’m currently working  on : Movie Website<br>🤝 I’m looking for help with <br>🌱 I’m currently learning: Front end<br>💬 Ask me about: everything about frontend
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s4crying&label=Profile%20views&color=0e75b6&style=flat" alt="s4crying" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s4crying" alt="s4crying" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/s4crying" target="blank"><img src="https://img.shields.io/twitter/follow/s4crying?logo=twitter&style=for-the-badge" alt="s4crying" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/s4crying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="s4crying" height="30" width="40" /></a>
-<a href="https://twitter.com/s4crying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s4crying" height="30" width="40" /></a>
-<a href="https://instagram.com/s4cryingresmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s4cryingresmi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/s4crying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="s4crying" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/discord-%237289da.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/668660071554613267)
+[![Discord](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/s4crying)
+[![Kick](https://img.shields.io/badge/Kick-%2300e701.svg?style=for-the-badge&logo=kick&logoColor=white)](https://kick.com/s4crying)
+[![YouTube](https://img.shields.io/badge/youtube-%23ff0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@S4Crying)
+[![Instagram](https://img.shields.io/badge/Instagram-%23c13584.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/s4cryingresmi)
+[![TikTok](https://img.shields.io/badge/tiktok-%23010101.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@s4crying)
+[![X](https://img.shields.io/badge/x-%23010101.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/s4crying)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/S4Crying"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="S4Crying" /></a><a href="https://ko-fi.com/S4Crying"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="S4Crying" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s4crying&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="s4crying" /></p>
+# 💻 Tech Stack:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s4crying&show_icons=true&theme=tokyonight&locale=en" alt="s4crying" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=S4Crying&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=S4Crying&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=S4Crying&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s4crying&" alt="s4crying" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=S4Crying&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=S4Crying&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=S4Crying&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
