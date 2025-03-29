@@ -1,30 +1,28 @@
-# 💫 About Me:
-🔭 I’m currently working  on : Movie Website<br>🤝 I’m looking for help with <br>🌱 I’m currently learning: Front end<br>💬 Ask me about: everything about frontend
+<h1 hizalama = "merkez" > Hi 👋, S4Crying < / h1 >
+<h3 align = "center" > Hindistan'dan tutkulu bir ön uç geliştiricisi < / h3 >
 
+<p hizalama = "sol" > <img src = "https://komarev.com/ghpvc/?username=s4crying&label=Profile%20views&color=0e75b6&style=flat" alt =" s4crying "/ > < / p >
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/discord-%237289da.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/668660071554613267)
-[![Discord](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/s4crying)
-[![Kick](https://img.shields.io/badge/Kick-%2300e701.svg?style=for-the-badge&logo=kick&logoColor=white)](https://kick.com/s4crying)
-[![YouTube](https://img.shields.io/badge/youtube-%23ff0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@S4Crying)
-[![Instagram](https://img.shields.io/badge/Instagram-%23c13584.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/s4cryingresmi)
-[![TikTok](https://img.shields.io/badge/tiktok-%23010101.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@s4crying)
-[![X](https://img.shields.io/badge/x-%23010101.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/s4crying)
+<p hizalama = "sol" > <bir href = "https://github.com/ryo-ma/github-profile-trophy"><img src =" https://github-profile-trophy.vercel.app/?username=s4crying" "s4crying" / = >< / p >
 
-# 💻 Tech Stack:
+<p hizalama = "sol" > <bir href = "https://twitter.com/s4crying" hedef =" boş ">< img src =" https://img.shields.io/twitter/follow/s4crying?logo=twitter&= rozet için "alt =" s4crying "/ >< / a > < / p >
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=S4Crying&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=S4Crying&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=S4Crying&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align = "left" > Benimle bağlantı kurun: < / h3 >
+<p hizalama = "sol" >
+<bir href = "https://dev.to/s4crying" hedef =" boş ">< img hizalama =" merkez "src =" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" "s4crying" yükseklik = "30" genişlik = /=
+<bir href = "https://twitter.com/s4crying" hedef =" boş ">< img hizalama =" merkez "src =" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" "s4crying" yükseklik = "30" genişlik = /=
+<bir href = "https://instagram.com/s4cryingresmi" hedef =" boşluk ">< img hizalama =" merkez "src =" https://raw.githubusercontent.com / rahuldkjain / github-profil-okuma-jeneratör / master / src / images / icons / Social / instagram.svg "alt =" s4cryingresmi "yükseklik = "40" / = / a ><
+<bir href = "https://www.youtube.com/c/s4crying" hedef =" boş ">< img hizalama =" merkez "src =" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" "s4crying" yükseklik = "30" genişlik = /=
+< / p >
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=S4Crying&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h3 hizalama = "sol" > Diller ve Araçlar: < / h3 >
+<p hizalama = "sol" > <bir href = "https://www.blender.org/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://download.blender.org/branding/community/blender_community_badge_white.svg" alt =" blender "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://www.adobe.com/in/products/illustrator.html" hedef =" _ blank "rel =" noreferrer "> <img src = "https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt =" illustrator "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://www.mongodb.com/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt =" mongodb "genişlik =" 40 "yükseklik =" 40 "/ > < / a > <bir href = "https://www.photoshop.com/en" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt =" photoshop "genişlik =" 40 "yükseklik =" 40 "/ > < / a > < / p >hedef = "_blank" rel = "noreferrer" > <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt =" photoshop "genişlik =" 40 "yükseklik =" 40 "/ > < / a > < / p >hedef = "_blank" rel = "noreferrer" > <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt =" photoshop "genişlik =" 40 "yükseklik =" 40 "/ > < / a > < / p >
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=S4Crying&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 hizalama = "sol" > Destek: < / h3 >
+<p ><bir href = "https://www.buymeacoffee.com/S4Crying"> <img align = "left" src = "https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" yükseklik =" 50 "genişlik = "210" alt = "S4Crying" / >< / a ><bir href = "https://ko-fi.com/S4Crying"> <img align = "left" src = "https://cdn.ko-fi.com/cdn/kofi3.png?v=3" yükseklik =" 50 "genişlik = "210" alt = "S4Crying" / >< / a >< / p >< br >< br >
 
----
-[![](https://visitcount.itsvg.in/api?id=S4Crying&icon=0&color=0)](https://visitcount.itsvg.in)
+<p >< img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=s4crying&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt =" s4crying "/ >< / p >
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p > & nbsp; < img align = "merkez" src = "https://github-readme-stats.vercel.app/api?username=s4crying&show_icons=true&theme=tokyonight&locale=en"" s4crying "/ = / p ><
+
+<p >< img hizalama = "merkez" src = "https://github-readme-streak-stats.herokuapp.com/?user=s4crying&" alt =" s4crying "/ >< / p >
