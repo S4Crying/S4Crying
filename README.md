@@ -3,15 +3,15 @@
 
 
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://youtube.com/@s4crying)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/@s4cryingresmi)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&style=for-the-badge)](https://tiktok.com/@s4crying)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/@s4crying)
-[![Kick](https://img.shields.io/badge/kick-00ff00?logo=kick&logoColor=white&style=for-the-badge)](https://kick.com/s4crying)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white&style=for-the-badge)](https://pinterest.com/s4crying)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/s4crying)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mail@s4cry.ing) 
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/s4cry.ing)
+[![YouTube](https://img.shields.io/badge/-6a0dad?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/@s4crying)
+[![Instagram](https://img.shields.io/badge/-6a0dad?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/@s4cryingresmi)
+[![TikTok](https://img.shields.io/badge/-6a0dad?logo=tiktok&logoColor=white&style=for-the-badge)](https://tiktok.com/@s4crying)
+[![X](https://img.shields.io/badge/-6a0dad?logo=x&logoColor=white&style=for-the-badge)](https://x.com/@s4crying)
+[![Kick](https://img.shields.io/badge/-6a0dad?logo=kick&logoColor=white&style=for-the-badge)](https://kick.com/s4crying)
+[![Pinterest](https://img.shields.io/badge/-6a0dad?logo=Pinterest&logoColor=white&style=for-the-badge)](https://pinterest.com/s4crying)
+[![Reddit](https://img.shields.io/badge/-6a0dad?logo=reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/s4crying)
+[![email](https://img.shields.io/badge/Email-6a0dad?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mail@s4cry.ing) 
+[![Bluesky](https://img.shields.io/badge/-6a0dad?logo=bluesky&logoColor=white&style=for-the-badge)](https://bsky.app/profile/s4cry.ing)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=S4Crying&theme=aura&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=S4Crying&theme=aura&hide_border=true)<br/>
