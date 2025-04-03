@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/@s4cryingresmi)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&style=for-the-badge)](https://tiktok.com/@s4crying)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/@s4crying)
-[![Kick](https://img.shields.io/badge/Twitch-%00ff00.svg?logo=Kick&logoColor=white&style=for-the-badge)](https://kick.com/s4crying)
+[![Kick](https://img.shields.io/badge/kick-00ff00?logo=kick&logoColor=white&style=for-the-badge)](https://kick.com/s4crying)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white&style=for-the-badge)](https://pinterest.com/s4crying)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/s4crying)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mail@s4cry.ing) 
