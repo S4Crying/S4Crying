@@ -10,8 +10,8 @@
 [![Kick](https://img.shields.io/badge/-6a0dad?logo=kick&logoColor=white&style=for-the-badge)](https://kick.com/s4crying)
 [![Pinterest](https://img.shields.io/badge/-6a0dad?logo=Pinterest&logoColor=white&style=for-the-badge)](https://pinterest.com/s4crying)
 [![Reddit](https://img.shields.io/badge/-6a0dad?logo=reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/s4crying)
-[![email](https://img.shields.io/badge/Email-6a0dad?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mail@s4cry.ing) 
 [![Bluesky](https://img.shields.io/badge/-6a0dad?logo=bluesky&logoColor=white&style=for-the-badge)](https://bsky.app/profile/s4cry.ing)
+[![email](https://img.shields.io/badge/Email-6a0dad?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mail@s4cry.ing) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=S4Crying&theme=aura&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=S4Crying&theme=aura&hide_border=true)<br/>
