@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/-6a0dad?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/@s4crying)
-[![Instagram](https://img.shields.io/badge/-6a0dad?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/@s4cryingresmi)
+[![Instagram](https://img.shields.io/badge/-6a0dad?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/@s4cry.ing)
 [![TikTok](https://img.shields.io/badge/-6a0dad?logo=tiktok&logoColor=white&style=for-the-badge)](https://tiktok.com/@s4crying)
 [![X](https://img.shields.io/badge/-6a0dad?logo=x&logoColor=white&style=for-the-badge)](https://x.com/@s4crying)
 [![Kick](https://img.shields.io/badge/-6a0dad?logo=kick&logoColor=white&style=for-the-badge)](https://kick.com/s4crying)
