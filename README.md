@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: X<br>👯 I’m looking to collaborate on: X<br>🤝 I’m looking for help with: X<br>🌱 I’m currently learning: HTML, CSS<br>💬 Ask me about: X<br>⚡ Fun fact: X
+🔭 I’m currently working on: NOT<br>👯 I’m looking to collaborate on: NOT<br>🤝 I’m looking for help with: NOT<br>🌱 I’m currently learning: NOT<br>💬 Ask me about: X<br>⚡ Fun fact: NOT
 
 
 ## 🌐 Socials:
