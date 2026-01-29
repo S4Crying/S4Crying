@@ -27,7 +27,7 @@
 [![](https://visitcount.itsvg.in/api?id=S4Crying&icon=0&color=11)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![ByNoGame](https://img.shields.io/badge/Email-6a0dad?logo=gmail&logoColor=white&style=for-the-badge)](https://donate.bynogame.com/s4crying)
+  [![ByNoGame](https://img.shields.io/badge/ByNoGame-ED502F?style=for-the-badge&logo=postman&logoColor=white)](https://donate.bynogame.com/s4crying)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
