@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: NOT<br>👯 I’m looking to collaborate on: NOT<br>🤝 I’m looking for help with: NOT<br>🌱 I’m currently learning: NOT<br>💬 Ask me about: X<br>⚡ Fun fact: NOT
+🔭 I’m currently working on: NOT<br>👯 I’m looking to collaborate on: NOT<br>🤝 I’m looking for help with: NOT<br>🌱 I’m currently learning: NOT<br>💬 Ask me about: NOT<br>⚡ Fun fact: NOT
 
 
 ## 🌐 Socials:
