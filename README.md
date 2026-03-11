@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on: NONE<br>👯 I’m looking to collaborate on: NONE<br>🤝 I’m looking for help with: NONE<br>🌱 I’m currently learning: NONE<br>💬 Ask me about: NONE<br>⚡ Fun fact: NONE
-
-
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/-6a0dad?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/@s4crying)
 [![Instagram](https://img.shields.io/badge/-6a0dad?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/@s4cry.ing)
@@ -12,22 +8,9 @@
 [![Reddit](https://img.shields.io/badge/-6a0dad?logo=reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/s4crying)
 [![Bluesky](https://img.shields.io/badge/-6a0dad?logo=bluesky&logoColor=white&style=for-the-badge)](https://bsky.app/profile/s4cry.ing)
 [![email](https://img.shields.io/badge/Email-6a0dad?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mail@s4cry.ing) 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=S4Crying&theme=aura&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=S4Crying&theme=aura&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=S4Crying&theme=aura&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=S4Crying&theme=aura&no-frame=true&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=S4Crying&limit=5&theme=aura&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=S4Crying&icon=0&color=11)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![ByNoGame](https://img.shields.io/badge/ByNoGame-ED502F?style=for-the-badge&logo=postman&logoColor=white)](https://donate.bynogame.com/s4crying)
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💰 You can help me by Donating
+[![ByNoGame](https://img.shields.io/badge/ByNoGame-ED502F?style=for-the-badge&logo=postman&logoColor=white)](https://donate.bynogame.com/s4crying)
