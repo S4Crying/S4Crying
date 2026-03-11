@@ -8,7 +8,14 @@
 
 <h3 align="center">🌐 Socials</h3>
 <div align="center">
-  <a href="https://youtube.com/@s4crying"><img src="https://img.shields.io/badge/YouTube-58a6ff?style=for-the-badge&logo=youtube&logoColor=white" height="45" /></a><a href="https://instagram.com/@s4cry.ing"><img src="https://img.shields.io/badge/Instagram-58a6ff?style=for-the-badge&logo=instagram&logoColor=white" height="45" /></a><a href="https://tiktok.com/@s4crying"><img src="https://img.shields.io/badge/TikTok-58a6ff?style=for-the-badge&logo=tiktok&logoColor=white" height="45" /></a><a href="https://x.com/@s4crying"><img src="https://img.shields.io/badge/X-58a6ff?style=for-the-badge&logo=x&logoColor=white" height="45" /></a><a href="https://kick.com/s4crying"><img src="https://img.shields.io/badge/Kick-58a6ff?style=for-the-badge&logo=kick&logoColor=white" height="45" /></a><a href="https://bsky.app/profile/s4cry.ing"><img src="https://img.shields.io/badge/Bluesky-58a6ff?style=for-the-badge&logo=bluesky&logoColor=white" height="45" /></a><a href="https://discord.gg/DAVET_LINKIN"><img src="https://img.shields.io/badge/Discord-58a6ff?style=for-the-badge&logo=discord&logoColor=white" height="45" /></a><a href="mailto:mail@s4cry.ing"><img src="https://img.shields.io/badge/Email-58a6ff?style=for-the-badge&logo=gmail&logoColor=white" height="45" /></a>
+  <a href="https://youtube.com/@s4crying"><img src="https://img.shields.io/badge/YouTube-58a6ff?style=for-the-badge&logo=youtube&logoColor=white" height="45" /></a>&nbsp;
+  <a href="https://instagram.com/@s4cry.ing"><img src="https://img.shields.io/badge/Instagram-58a6ff?style=for-the-badge&logo=instagram&logoColor=white" height="45" /></a>&nbsp;
+  <a href="https://tiktok.com/@s4crying"><img src="https://img.shields.io/badge/TikTok-58a6ff?style=for-the-badge&logo=tiktok&logoColor=white" height="45" /></a>&nbsp;
+  <a href="https://x.com/@s4crying"><img src="https://img.shields.io/badge/X-58a6ff?style=for-the-badge&logo=x&logoColor=white" height="45" /></a>&nbsp;
+  <a href="https://kick.com/s4crying"><img src="https://img.shields.io/badge/Kick-58a6ff?style=for-the-badge&logo=kick&logoColor=white" height="45" /></a>&nbsp;
+  <a href="https://bsky.app/profile/s4cry.ing"><img src="https://img.shields.io/badge/Bluesky-58a6ff?style=for-the-badge&logo=bluesky&logoColor=white" height="45" /></a>&nbsp;
+  <a href="https://discord.gg/DAVET_LINKIN"><img src="https://img.shields.io/badge/Discord-58a6ff?style=for-the-badge&logo=discord&logoColor=white" height="45" /></a>&nbsp;
+  <a href="mailto:mail@s4cry.ing"><img src="https://img.shields.io/badge/Email-58a6ff?style=for-the-badge&logo=gmail&logoColor=white" height="45" /></a>
 </div>
 
 ###
