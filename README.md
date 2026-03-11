@@ -1,3 +1,12 @@
+<h1 align="center">What's Up?</h1>
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:s4crying?theme=gelbooru&padding=7&scale=1&align=top&pixelated=0&darkmode=0"  />
+</div>
+
+###
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/-6a0dad?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/@s4crying)
 [![Instagram](https://img.shields.io/badge/-6a0dad?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/@s4cry.ing)
@@ -16,15 +25,7 @@
 [![ByNoGame](https://img.shields.io/badge/ByNoGame-ED502F?style=for-the-badge&logo=postman&logoColor=white)](https://donate.bynogame.com/s4crying)
 
 
-<h1 align="center">What's Up?</h1>
 
-###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:s4crying?theme=gelbooru&padding=7&scale=1&align=top&pixelated=0&darkmode=0"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=s4crying&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
