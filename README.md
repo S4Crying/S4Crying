@@ -7,17 +7,27 @@
 </div>
 
 ###
+<h1 align="center">What's Up?</h1>
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:s4crying?theme=gelbooru&padding=7&scale=1&align=top&pixelated=0&darkmode=0" />
+</div>
+
+###
+
 <h3 align="center">🌐 Socials</h3>
 <div align="center">
-  <img src="[![YouTube](https://img.shields.io/badge/-6a0dad?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/@s4crying)"  />
-  <img src="[![Instagram](https://img.shields.io/badge/-6a0dad?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/@s4cry.ing)"  />
-  <img src="[![TikTok](https://img.shields.io/badge/-6a0dad?logo=tiktok&logoColor=white&style=for-the-badge)](https://tiktok.com/@s4crying)"  />
-  <img src="[![X](https://img.shields.io/badge/-6a0dad?logo=x&logoColor=white&style=for-the-badge)](https://x.com/@s4crying)"  />
-  <img src="[![Kick](https://img.shields.io/badge/-6a0dad?logo=kick&logoColor=white&style=for-the-badge)](https://kick.com/s4crying)"  />
-  <img src="[![Pinterest](https://img.shields.io/badge/-6a0dad?logo=Pinterest&logoColor=white&style=for-the-badge)](https://pinterest.com/s4crying)"  />
-  <img src="[![Reddit](https://img.shields.io/badge/-6a0dad?logo=reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/s4crying)"  />
-  <img src="[![Bluesky](https://img.shields.io/badge/-6a0dad?logo=bluesky&logoColor=white&style=for-the-badge)](https://bsky.app/profile/s4cry.ing)"  />
-  <img src="[![email](https://img.shields.io/badge/Email-6a0dad?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mail@s4cry.ing)"  />
+  <a href="https://youtube.com/@s4crying"><img src="https://img.shields.io/badge/YouTube-6a0dad?logo=youtube&logoColor=white&style=for-the-badge"  /></a>
+  <a href="https://instagram.com/@s4cry.ing"><img src="https://img.shields.io/badge/Instagram-6a0dad?logo=instagram&logoColor=white&style=for-the-badge"  /></a>
+  <a href="https://tiktok.com/@s4crying"><img src="https://img.shields.io/badge/TikTok-6a0dad?logo=tiktok&logoColor=white&style=for-the-badge"  /></a>
+  <a href="https://x.com/@s4crying"><img src="https://img.shields.io/badge/X-6a0dad?logo=x&logoColor=white&style=for-the-badge"  /></a>
+  <a href="https://kick.com/s4crying"><img src="https://img.shields.io/badge/Kick-6a0dad?logo=kick&logoColor=white&style=for-the-badge"  /></a>
+  <a href="https://pinterest.com/s4crying"><img src="https://img.shields.io/badge/Pinterest-6a0dad?logo=Pinterest&logoColor=white&style=for-the-badge"  /></a>
+  <a href="https://reddit.com/user/s4crying"><img src="https://img.shields.io/badge/Reddit-6a0dad?logo=reddit&logoColor=white&style=for-the-badge"  /></a>
+  <a href="https://bsky.app/profile/s4cry.ing"><img src="https://img.shields.io/badge/Bluesky-6a0dad?logo=bluesky&logoColor=white&style=for-the-badge"  /></a>
+  <a href="mailto:mail@s4cry.ing"><img src="https://img.shields.io/badge/Email-6a0dad?logo=gmail&logoColor=white&style=for-the-badge"  /></a>
 </div>
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=S4Crying&theme=aura&hide_border=true&include_all_commits=true&count_private=false)<br/>
